@@ -76,3 +76,13 @@ The Power BI dashboard analyzes:
 ## Project Outcome
 
 This project helped me develop practical skills in transforming raw sales data into an interactive Power BI dashboard and communicating data-driven insights clearly.
+
+## Dashboard Preview
+
+### Page 1 – Sales Overview
+
+![Page 1 Dashboard](Page_1_Dashboard.png)
+
+### Page 2 – Detailed Analysis
+
+![Page 2 Dashboard](Page_2_Dashboard.png)
